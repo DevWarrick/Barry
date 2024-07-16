@@ -1,0 +1,167 @@
+/* Page */
+.Diesel12Valve-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 80%;
+  /* height: calc(100vh - 70px); */
+  height: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Form */
+.Diesel12Valve-form {
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  justify-content: center;
+  width: 300px;
+  margin: 30px 0;
+}
+
+/* Header styling */
+.Diesel12Valve-h1 {
+  margin-bottom: 20px;
+}
+
+/* Label Styling */
+.Diesel12Valve-label {
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 30px;
+}
+
+.Diesel12Valve-Cylinder-Head-Name {
+  display: flex;
+  flex-direction: row;
+  align-items: left;
+  gap: 15px;
+}
+
+/* Cylinder Head Name Input */
+.Diesel12Valve-Cylinder-Head-Name-Input {
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 30px;
+  margin-top: 10px;
+  font-size: 16px;
+  color: #333;
+  background-color: #fff;
+  cursor: pointer;
+  width: 100%;
+}
+
+/* Pressure Test */
+.Diesel12Valve-Pressure-Test {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+}
+
+/* Skim */
+.Diesel12Valve-Skim {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+}
+
+/* Valves and Seats */
+.Diesel12Valve-ValvesAndSeats {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+}
+
+/* Input styling */
+.Diesel12Valve-Input {
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 30px;
+  font-size: 16px;
+  color: #333;
+  background-color: #fff;
+  cursor: pointer;
+}
+
+/* Button */
+.Diesel12Valve-Button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+/* pre top valves */
+.Diesel12Valve-PreTopValves {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+}
+
+/* Combustion Chambers */
+.Diesel12Valve-Combustion-Chambers {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+}
+
+/* Line Bore */
+.Diesel12Valve-Line-Bore {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+}
+
+/* Guides */
+.Diesel12Valve-Fit-Guides {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+/*  Weld */
+.Diesel12Valve-Weld {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+/* Valve Stem Seals */
+.Diesel12Valve-Valve-Stem-Seals {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+}
+
+/* Broken Bolt */
+.Diesel12Valve-Broken-Bolt {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+/* Helicoil */
+.Diesel12Valve-Helicoil {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+.Diesel12Valve-RemoveGlowPlug {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 20px 0;
+}

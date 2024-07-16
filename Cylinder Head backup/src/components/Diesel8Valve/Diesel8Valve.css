@@ -1,0 +1,179 @@
+/* Diesel 8 Valve Page */
+.Diesel8Valve-Container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 80%;
+  /* height: calc(100vh - 70px); */
+  height: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.Diesel8Valve-H1 {
+  margin-bottom: 20px;
+}
+
+/* Diesel 8 Valve Form */
+.Diesel8Valve-Form {
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  justify-content: center;
+  width: 300px;
+  margin: 30px 0;
+}
+
+/* Diesel 8 Valve Label */
+.Diesel8Valve-Label {
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 30px;
+}
+
+.Diesel8Valve-Input {
+  /* width: 300px; */
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 30px;
+  font-size: 16px;
+  color: #333;
+  background-color: #fff;
+  cursor: pointer;
+}
+
+.Diesel8Valve-Button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+/* Diesel 8 Valve Pressure Test Styling */
+.Diesel8Valve-Pressure-Test {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+}
+
+/* Diesel 8 Valve Skim Styling */
+.Diesel8Valve-Skim {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+}
+
+/* Diesel 8 Valve Valves And Seats */
+.Diesel8Valve-ValvesAndSeats {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+}
+
+/* Diesel 8 Valve Pre Top Valves */
+.Diesel8Valve-PreTopValves {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+}
+
+/* Diesel 8 Valve Set Tappets */
+.Diesel8Valve-Set-Tappets {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+}
+
+/* Diesel 8 Valve Combustion Chambers */
+.Diesel8Valve-Combustion-Chambers {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+}
+
+/* Diesel 8 Valve Line Bore */
+.Diesel8Valve-Line-Bore {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+}
+
+.Diesel8Valve-Valve-Stem-Seals {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+}
+
+/* Fit Guides */
+.Diesel8Valve-Fit-Guides {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+/* Welds */
+.Diesel8Valve-Weld {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+/* Make and Fit Valve Seats */
+.Diesel8Valve-Make-And-Fit-Valve-Seat {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+.Diesel8Valve-Cylinder-Head-Name {
+  display: flex;
+  flex-direction: row;
+  align-items: left;
+  gap: 15px;
+}
+
+.Diesel8Valve-Cylinder-Head-Name-Input {
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 30px;
+  margin-top: 10px;
+  font-size: 16px;
+  color: #333;
+  background-color: #fff;
+  cursor: pointer;
+  width: 100%;
+}
+
+/* Broken Bolt */
+.Diesel8Valve-Broken-Bolt {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+/* Helicoils */
+.Diesel8Valve-Helicoil {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+/* Remove Glow Plug */
+.Diesel8Valve-RemoveGlowPlug {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 20px 0;
+}

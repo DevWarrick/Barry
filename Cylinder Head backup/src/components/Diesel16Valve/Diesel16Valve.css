@@ -1,0 +1,176 @@
+.Diesel16Valve-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 80%;
+  /* height: calc(100vh - 70px); */
+  height: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.Diesel16Valve-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 300px;
+  margin: 30px 0;
+}
+
+.Diesel16Valve-Cylinder-Head-Name {
+  display: flex;
+  flex-direction: row;
+  align-items: left;
+  gap: 15px;
+}
+
+/* Cylinder Head Name Input */
+.Diesel16Valve-Cylinder-Head-Name-Input {
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 30px;
+  margin-top: 10px;
+  font-size: 16px;
+  color: #333;
+  background-color: #fff;
+  cursor: pointer;
+  width: 100%;
+}
+
+/* Pressure Test */
+.Diesel16Valve-Pressure-Test {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+}
+
+/* Label  */
+.Diesel16Valve-Label {
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 30px;
+}
+
+/* Input */
+.Diesel16Valve-Input {
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 30px;
+  font-size: 16px;
+  color: #333;
+  background-color: #fff;
+  cursor: pointer;
+}
+
+/* Skim */
+.Diesel16Valve-Skim {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+}
+
+/* Valves and Seats  */
+.Diesel16Valve-ValvesAndSeats {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+}
+
+/* Pre Top Valves */
+.Diesel16Valve-PreTopValves {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+}
+
+/* Set Tappets */
+.Diesel16Valve-Set-Tappets {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+}
+
+/* Valve Stem Seals */
+.Diesel16Valve-Valve-Stem-Seals {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+}
+
+/* Guides */
+.Diesel16Valve-Fit-Guides {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+/* Weld */
+.Diesel16Valve-Weld {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+.Diesel16Valve-Broken-Bolt {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+.Diesel16Valve-Helicoil {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+.Diesel16Valve-Make-And-Fit-Valve-Seat {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+/* Remove Glow Plug */
+.Diesel16Valve-RemoveGlowPlug {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+/* select  */
+.Diesel16Valve-Select {
+  width: 300px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  font-size: 16px;
+  color: #333;
+  background-color: #fff;
+  cursor: pointer;
+}
+
+/* Line Bore */
+.Diesel16Valve-Line-Bore {
+  margin: 20px 0;
+}
+
+/* Button */
+.Diesel16Valve-Button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+}
